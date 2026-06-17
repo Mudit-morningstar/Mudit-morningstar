@@ -2,7 +2,7 @@
 
 Frontend-heavy full stack engineer. I build data-heavy product UIs tables, dashboards, filters, charts, LLM interfaces and I care about the gap between "it works" and "it's actually good to use."
 
-3.5 years in production. Currently at [Aptori](https://aptori.dev), a developer security platform — building the AI chat interface and the data layer that analysts actually interact with.
+3.5 years in production. Currently at [Aptori](https://aptori.dev), a developer security platform building the AI chat interface and the data layer that analysts actually interact with.
 
 ---
 
